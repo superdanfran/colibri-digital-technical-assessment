@@ -1,7 +1,7 @@
 # colibri-digital-technical-assessment
 Technical assessment supporting my application to the role of Graduate Data Engineer.
 
-Run my code by either using the jupyter notebook or the python script. Both have inline comments with the steps taken and problems found.
+Run my code by either using the jupyter notebook or the python script. Both have inline comments with the steps taken and problems found. The notebook file can be opened in GitHub to see the inline analysis.
 
 I couldn't find any duplicate values or null values in the code, nor any outliers in the values recorded. 
 The daily averages all fit within standard deviation and I don't think any are in need of flagging.
